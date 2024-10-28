@@ -16,3 +16,5 @@ Welcome to my GitHub! I’m a passionate **Software Engineer** and **Full Stack 
 
 ### 📈 My GitHub Stats:
 ![Safi786's GitHub stats](https://github-readme-stats.vercel.app/api?username=safi786&show_icons=true&theme=default)
+![Trophy](https://github-profile-trophy.vercel.app/?username=safi786)
+![GitHub Streak](https://streak-stats.demolab.com/?user=safi786)
