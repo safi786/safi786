@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there, I'm Safi Ur Rehman 👋
+Welcome to my GitHub! I’m a passionate Software Engineer and Full Stack Developer who loves building solutions that make a difference.
 
-<!--
-**safi786/safi786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies and Skills:
+Frontend: REACT.js, HTML, CSS, JavaScript
+Backend: Python, Django, Node.js
+Data Science & AI: Machine Learning, Deep Learning, NLP
+Cloud & DevOps: AWS, Docker, CI/CD
+Other: Git, REST APIs, Agile Development
+🧠 Current Interests:
+Exploring the latest in AI & Machine Learning
+Working on scalable web applications
+Contributing to open-source projects and collaborative coding
