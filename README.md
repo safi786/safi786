@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Safi Ur Rehman 👋
 
 Welcome to my GitHub! I’m a passionate **Software Engineer** and **Full Stack Developer** who loves building solutions that make a difference.
 
